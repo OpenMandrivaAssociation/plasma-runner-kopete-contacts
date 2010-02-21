@@ -1,6 +1,6 @@
 
 Summary:        Kopete contacts KDE runner
-Name:           kopete-kde-runner
+Name:           plasma-runner-kopete-contacts
 Version:        0.4
 Release:        %mkrel 1
 Source:         http://kde-apps.org/CONTENT/content-files/105263-krunner-kopete-contacts-%{version}.tar.gz
@@ -11,6 +11,7 @@ URL:            http://kde-apps.org/content/show.php/KRunner+Kopete+Contacts?con
 #BuildRequires:  kdelibs4-devel                       
 BuildRequires:  kdenetwork4-devel
 Requires:	kopete
+Obsoletes:	kopete-kde-runner
 
 %description
 Kopete Contacts is a KRunner plugins that allows you to open chat with your Kopete contact just by typing it's 
