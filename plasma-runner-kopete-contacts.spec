@@ -2,7 +2,7 @@
 Summary:        Kopete contacts KDE runner
 Name:           plasma-runner-kopete-contacts
 Version:        0.4
-Release:        %mkrel 1
+Release:        %mkrel 2
 Source:         http://kde-apps.org/CONTENT/content-files/105263-krunner-kopete-contacts-%{version}.tar.gz
 License:        GPLv2+                                         
 Group:          Graphical desktop/KDE                          
