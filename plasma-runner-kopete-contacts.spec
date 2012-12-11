@@ -50,3 +50,18 @@ rm -rf %{buildroot}
 rm -rf $RPM_BUILD_ROOT
 
 
+
+
+%changelog
+* Tue Dec 07 2010 Oden Eriksson <oeriksson@mandriva.com> 0.4-2mdv2011.0
++ Revision: 614586
+- the mass rebuild of 2010.1 packages
+
+  + Luis Daniel Lucio Quiroz <dlucio@mandriva.org>
+    - New name
+    - New name
+
+* Sun Feb 21 2010 Luis Daniel Lucio Quiroz <dlucio@mandriva.org> 0.4-1mdv2010.1
++ Revision: 508870
+- import kopete-kde-runner
+
