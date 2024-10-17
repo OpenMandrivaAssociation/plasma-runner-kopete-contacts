@@ -6,7 +6,7 @@ Release:        3
 Source:         http://kde-apps.org/CONTENT/content-files/105263-krunner-kopete-contacts-%{version}.tar.gz
 License:        GPLv2+                                         
 Group:          Graphical desktop/KDE                          
-URL:            http://kde-apps.org/content/show.php/KRunner+Kopete+Contacts?content=105263
+URL:            https://kde-apps.org/content/show.php/KRunner+Kopete+Contacts?content=105263
 #BuildRequires:  kdelibs4-devel                       
 BuildRequires:  kdenetwork4-devel
 Requires:	kopete
