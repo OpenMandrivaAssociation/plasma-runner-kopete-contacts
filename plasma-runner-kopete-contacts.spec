@@ -8,6 +8,7 @@ License:        GPLv2+
 Group:          Graphical desktop/KDE                          
 URL:            https://kde-apps.org/content/show.php/KRunner+Kopete+Contacts?content=105263
 #BuildRequires:  kdelibs4-devel                       
+BuildRequires:	make
 BuildRequires:  kdenetwork4-devel
 Requires:	kopete
 Obsoletes:	kopete-kde-runner
